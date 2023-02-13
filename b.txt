@@ -1,5 +1,9 @@
 B
 This is written in Github
 This is written in Github
+<<<<<<< Updated upstream
 delete
 hi
+=======
+
+>>>>>>> Stashed changes
